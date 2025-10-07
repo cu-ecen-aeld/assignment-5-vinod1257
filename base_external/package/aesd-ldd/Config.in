@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AESD_LDD
+	bool "aesd-ldd"
+	help
+	  Kernel modules for LDD examples (scull, misc-modules) from the
+	  aesd-assignments repository.

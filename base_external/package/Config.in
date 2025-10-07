@@ -1,0 +1,3 @@
+source "aesd-ldd/Config.in"
+source "aesd-assignments/Config.in"
+
